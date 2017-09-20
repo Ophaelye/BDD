@@ -1,0 +1,6 @@
+*.lock
+bower_components
+bower.json
+composer.json
+node_modules
+config/db.php
